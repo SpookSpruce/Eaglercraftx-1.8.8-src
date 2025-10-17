@@ -52,8 +52,7 @@ public class EaglercraftVersion {
 	// Miscellaneous variables:
 
 	public static final String mainMenuStringA = "Minecraft 1.8.8";
-	public static final String mainMenuStringB = projectOriginName + " " + projectOriginRevision + "-"
-			+ projectOriginVersion + " ultimate [" + EagRuntime.getPlatformType().getName() + "]";
+	public static final String mainMenuStringB = "Minecraft-WEB-EDITION";
 	public static final String mainMenuStringC = "";
 	public static final String mainMenuStringD = "Resources Copyright Mojang AB";
 
